@@ -1,4 +1,5 @@
-package org.NextGeTechSchool.NextGen.Tech.School;
+package org.NextGeTechSchool.NextGen.Tech.School.Controller;
+
 
 
 	import org.springframework.stereotype.Controller;
